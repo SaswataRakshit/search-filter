@@ -1,71 +1,71 @@
 {
-    "recipes":[
+    "dishes":[
         {
             "id": 1,
-            "recipe": "Tandoori Chicken",
+            "dish": "Tandoori-Chicken",
             "cuisine": "Indian",
             "ingredients": "Chicken",
             "prepTime": "130 mins"
         },
         {
             "id": 2,
-            "recipe": "Pav Bhaji",
+            "dish": "Pav-Bhaji",
             "cuisine": "Indian",
             "ingredients": "Bread",
             "prepTime": "30 mins"
         },
         {
             "id": 3,
-            "recipe": "Shawarma",
+            "dish": "Shawarma",
             "cuisine": "Lebanese",
             "ingredients": "Meat",
             "prepTime": "90 mins"
         },
         {
             "id": 4,
-            "recipe": "Pasta",
+            "dish": "Pasta",
             "cuisine": "Italian",
             "ingredients": "Wheat Flour",
             "prepTime": "90 mins"
         },
         {
             "id": 5,
-            "recipe": "Taco",
+            "dish": "Taco",
             "cuisine": "Mexican",
             "ingredients": "Tortilas",
             "prepTime": "60 mins"
         },
         {
             "id": 6,
-            "recipe": "Biriyani",
+            "dish": "Biriyani",
             "cuisine": "Indian",
             "ingredients": "Rice",
             "prepTime": "180 mins"
         },
         {
             "id": 7,
-            "recipe": "Rye Bread",
+            "dish": "Rye-Bread",
             "cuisine": "Danish",
             "ingredients": "Bread",
             "prepTime": "20 mins"
         },
         {
             "id": 8,
-            "recipe": "Cassoulet",
+            "dish": "Cassoulet",
             "cuisine": "French",
             "ingredients": "Beans",
             "prepTime": "80 mins"
         },
         {
             "id": 9,
-            "recipe": "Hamburger",
+            "dish": "Hamburger",
             "cuisine": "American",
             "ingredients": "Beef",
             "prepTime": "180 mins"
         },
         {
             "id": 10,
-            "recipe": "Lamington",
+            "dish": "Lamington",
             "cuisine": "Australian",
             "ingredients": "Cake",
             "prepTime": "100 mins"
