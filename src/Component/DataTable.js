@@ -64,12 +64,6 @@ const DataTable = () => {
         }
     }
 
-    const clearFilter = () => {
-        setValue('')
-        setRowData(rows)
-        setSuggestionList([])
-    }
-
     let displaySuggestions = null
     if (suggestionList.length != 0) {
         displaySuggestions = (
@@ -114,6 +108,12 @@ const DataTable = () => {
             return false
         })
         setRowData(filteredData)
+        setSuggestionList([])
+    }
+
+    const clearFilter = () => {
+        setValue('')
+        setRowData(rows)
         setSuggestionList([])
     }
 
